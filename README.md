@@ -1,5 +1,5 @@
 # LPR_ECE529
-My Final project for DSP ECE 529 at the University of Arizona. License Plate character recognition using a neural network
+My Final project for DSP ECE 529 at the University of Arizona. On a high level, the project consists of two stages. The first stage, uses image processing techniques to locate license plate characters in an image. The second stage is classification of the characters using neural networks. Intermediate to the two stages, 
 
 #Description
 Using a small base set of characters, 
